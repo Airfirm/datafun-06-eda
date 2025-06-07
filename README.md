@@ -1,6 +1,10 @@
 # datafun-06-eda
 
-# Specification for Project 6 EDA Notebook
+# Student Habits vs Academic Performance:
+This CSV file contains a simulated yet realistic dataset titled “Student Habits vs Academic Performance: A Simulated Study”, featuring 1,000 student records. Each row represents an individual student, capturing daily lifestyle habits such as study time, sleep, social media use, diet quality, mental health rating, and more—mapped against their final exam score. this dataset is ideal for educational analysis and experimentation in data science projects. It's structured, clean, and ready for exploration, modeling, and storytelling.
+
+# Purpose:
+The objective here, is to perform EDA, and data visualization tasks.
 
 ## Steps:
 - I created a new root project folder named (datafun-06-eda), made it public and make sure to check the README.md file

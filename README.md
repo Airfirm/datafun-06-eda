@@ -3,6 +3,8 @@
 # Student Habits vs Academic Performance:
 This CSV file contains a simulated yet realistic dataset titled “Student Habits vs Academic Performance: A Simulated Study”, featuring 1,000 student records. Each row represents an individual student, capturing daily lifestyle habits such as study time, sleep, social media use, diet quality, mental health rating, and more—mapped against their final exam score. this dataset is ideal for educational analysis and experimentation in data science projects. It's structured, clean, and ready for exploration, modeling, and storytelling.
 
+- datasets_link: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
+
 # Purpose:
 The objective here, is to perform EDA, and data visualization tasks.
 

@@ -2,11 +2,14 @@
 
 # Specification for Project 6 EDA Notebook
 
-## Overview
-
-Project 6 is an opportunity to create your own custom
-exploratory data analysis (EDA) project using
-GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
+## Steps:
+- I created a new root project folder named (datafun-06-eda), made it public and make sure to check the README.md file
+- Created .gitignore file to house contents that does NOT required to be tracked in the project history
+- Created a requirements.txt file to install packages that would be useful for this project
+- Created and activated my .venv (virtual environment)
+- Installed all required dependencies referencing my requirements.txt file, and more could be installed along the way
+- Then created a jupyter notebook (femi_eda.ipynb), selected my python interpreter
+- Printed: print('Hello World!)
 
 ## Deliverable Names
 

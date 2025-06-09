@@ -1,12 +1,19 @@
 # datafun-06-eda
 
+- Author: **Oluwafemi Salawu**
+- GitHub Repository:  **datafun-06-eda**
+- Documentation:      README.md
+- Notebook:           **femi_eda.ipynb**
+
+
+# Purpose:
+The objective here, is to perform EDA, and data visualization tasks.
+
+
 # Student Habits vs Academic Performance:
 This CSV file contains a simulated yet realistic dataset titled “Student Habits vs Academic Performance: A Simulated Study”, featuring 1,000 student records. Each row represents an individual student, capturing daily lifestyle habits such as study time, sleep, social media use, diet quality, mental health rating, and more—mapped against their final exam score. this dataset is ideal for educational analysis and experimentation in data science projects. It's structured, clean, and ready for exploration, modeling, and storytelling.
 
 - datasets_link: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
-
-# Purpose:
-The objective here, is to perform EDA, and data visualization tasks.
 
 ## Steps:
 - I created a new root project folder named (datafun-06-eda), made it public and make sure to check the README.md file
@@ -17,12 +24,16 @@ The objective here, is to perform EDA, and data visualization tasks.
 - Then created a jupyter notebook (femi_eda.ipynb), selected my python interpreter
 - Printed: print('Hello World!)
 
-## Deliverable Names
 
-- Author: **Oluwafemi Salawu**
-- GitHub Repository:  **datafun-06-eda**
-- Documentation:      README.md
-- Notebook:           **femi_eda.ipynb**
+
+
+
+
+
+
+
+
+
 
 ## Start a New Project
 
